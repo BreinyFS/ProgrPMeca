@@ -1,0 +1,3 @@
+383	2023	-00	Meca
+886	12	Luis	Meca
+777	15	Juan	Sof
