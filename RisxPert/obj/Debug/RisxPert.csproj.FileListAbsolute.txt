@@ -1,0 +1,9 @@
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\bin\Debug\RisxPert.dll
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\bin\Debug\RisxPert.pdb
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\obj\Debug\RisxPert.csproj.AssemblyReference.cache
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\obj\Debug\RisxPert.UserControl1.resources
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\obj\Debug\RisxPert.csproj.GenerateResource.cache
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\obj\Debug\RisxPert.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\obj\Debug\RisxPert.dll
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\obj\Debug\RisxPert.pdb
+C:\Users\Admin\RisxPert\RisxPert\RisxPert\obj\Debug\RisxPert.Properties.Resources.resources
