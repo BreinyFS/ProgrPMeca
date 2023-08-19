@@ -1,0 +1,8 @@
+C:\Users\Admin\Escritorio\Desicion Emergencia\Programa de Emergencia\Programa de Emergencia\obj\Debug\Programa de Emergencia.csproj.AssemblyReference.cache
+C:\Users\Admin\Escritorio\Desicion Emergencia\Programa de Emergencia\Programa de Emergencia\obj\Debug\Programa_de_Emergencia.UserControl1.resources
+C:\Users\Admin\Escritorio\Desicion Emergencia\Programa de Emergencia\Programa de Emergencia\obj\Debug\Programa de Emergencia.csproj.GenerateResource.cache
+C:\Users\Admin\Escritorio\Desicion Emergencia\Programa de Emergencia\Programa de Emergencia\obj\Debug\Programa de Emergencia.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Escritorio\Desicion Emergencia\Programa de Emergencia\Programa de Emergencia\bin\Debug\Programa de Emergencia.dll
+C:\Users\Admin\Escritorio\Desicion Emergencia\Programa de Emergencia\Programa de Emergencia\bin\Debug\Programa de Emergencia.pdb
+C:\Users\Admin\Escritorio\Desicion Emergencia\Programa de Emergencia\Programa de Emergencia\obj\Debug\Programa de Emergencia.dll
+C:\Users\Admin\Escritorio\Desicion Emergencia\Programa de Emergencia\Programa de Emergencia\obj\Debug\Programa de Emergencia.pdb
